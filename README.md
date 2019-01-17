@@ -25,4 +25,4 @@ Note: In order to run these projects, the files must be dropped in the SIG folde
    - Steering behaviors, such as: Seek, Flee, Arrival, Wander, Pursue, Evade, and Follow the Leader were implemented.
    - The report/benchmarks for this project can be found here: [Steering Report](https://github.com/AmarSaini/Computer-Simulation-and-Animation/blob/master/Steering/Steering%20Report.pdf)
    
-![Steering Preview](https://raw.githubusercontent.com/AmarSaini/Advanced-Graphics-Concepts/master/Ray%20Tracing/preview2.PNG)
+![Steering Preview](https://raw.githubusercontent.com/AmarSaini/Computer-Simulation-and-Animation/master/Steering/preview.PNG)
