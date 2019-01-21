@@ -1,4 +1,4 @@
-# Computer Simulation and Animation Topics
+# Computer Animation and Simulation Topics
 
 These projects were implemented in the Standalone Interactive Graphics (SIG) Toolkit, created by Professor Marcelo Kallmann, and Unity.
 
